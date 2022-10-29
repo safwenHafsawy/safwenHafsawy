@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/saf.web.genie">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/instagram-instagram-orange" alt="Instagram Badge"/>
 </div>
   
   ### Hi there 👋 
