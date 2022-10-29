@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div id="badges">
-  <a href="linkedin.com/in/safwenhafsawy/">
+  <a href="https://www.linkedin.com/in/safwenhafsawy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/saf.web.genie">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
   </a>
 </div>
