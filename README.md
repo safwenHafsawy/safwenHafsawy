@@ -1,12 +1,14 @@
-### Hi there 👋
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/safwenhafsawy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/saf.web.genie">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
 </div>
+  
+  ### Hi there 👋 
+  my name is safwen and i am a fullstack web developer 
 <!--
 **safwenHafsawy/safwenHafsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
