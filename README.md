@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, My name is safwen</h1>
 <h3 align="center">A fullstack web developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **a web based music player**
+- 🔭 I’m currently working on **Personal Portfolio website**
 
-- 🌱 I’m currently learning **Webpack**
+- 🌱 I’m currently learning **three.js**
 
 - 📫 How to reach me **hafsawysafwen@gmail.com**
 
