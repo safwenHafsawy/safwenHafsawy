@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Personal Portfolio website**<br>🌱 I’m currently learning **three.js**<br>💬 Ask me about ** Web Development **<br>
+🔭 I’m currently working on **Personal Portfolio website**<br>🌱 I’m currently learning **three.js**<br>💬 Ask me about **Web Development**<br>
 
 
 ## 🌐 Socials:
