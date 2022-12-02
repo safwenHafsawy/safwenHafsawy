@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on **Personal Portfolio website**<br>🌱 I’m currently learning **three.js**<br>💬 Ask me about **Web Development**<br>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Safwen, a full-stack web developer 👨‍💻 from tunisia 🇹🇳</div>  
+  
+
+- 🔭 I’m currently working on **my personal portfolio site**  
+  
+
+- 🌱 I’m currently learning **three.js**  
+  
+
+- ❓ Ask me about anything related to **web developmnet**  
+  
+
+- ⚡ Fun fact: I use **tabs** over spaces  
+  
+
+<br/>  
+
 
 
 ## 🌐 Socials:
