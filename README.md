@@ -6,10 +6,10 @@
 ### <div align="center">I'm Safwen, a full-stack web developer 👨‍💻 from tunisia 🇹🇳</div>  
   
 
-- 🔭 I’m currently working on **my personal portfolio site**  
+- 🔭 I’m currently working on **improving my nextjs knowledge**  
   
 
-- 🌱 I’m currently learning **three.js**  
+- 🌱 I’m currently learning **next.js**  
   
 
 - ❓ Ask me about anything related to **web developmnet**  
